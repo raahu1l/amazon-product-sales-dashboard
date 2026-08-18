@@ -68,7 +68,6 @@ amazon-product-sales-dashboard/
 
 ## 📸 Dashboard Preview
 
-> Add your dashboard screenshot below.
 
 ![Dashboard](Screenshots/Dashboard.png)
 
