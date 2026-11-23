@@ -16,7 +16,7 @@
 A data analytics project covering the full workflow: cleaning a raw Amazon product dataset in Python (Pandas), then visualizing it in an interactive Power BI dashboard. It lets you explore products by category, rating, price, and discount.
 
 ## 🖥️ Screenshots
-![Dashboard](./screenshots/dashboard.png)
+![Dashboard](./Screenshots/dashboard.png)
 
 ## ❗ Problem
 Raw e-commerce data is messy: prices carry currency symbols, ratings are stored as text, and values are missing. This makes it hard to see which categories, prices, and products actually perform well. This project cleans the data and presents it in one interactive view.
